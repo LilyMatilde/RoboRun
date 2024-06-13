@@ -15,6 +15,7 @@ nav ul{
     overflow: hidden;
     margin: 0;
     padding: 0;
+    color: #F0E442;
 }
 nav li {
     display: block;
@@ -118,7 +119,7 @@ h3{
 /*<---Contact form ---->*/
 
 .contact{
-    background-color:#D5EEFF ;
+    background-color:#44AA99 ;
 }
 
 input[type=text], select, textarea {
