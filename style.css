@@ -6,12 +6,12 @@ body{
     font-style: normal;
     max-width: 900px;
     margin: 0 auto;
-    background-color:#FF895D ;
+    background-color:#FF6505 ;
 }
 
 nav ul{
     list-style-type: none;
-    background-color: #007CB9;
+    background-color: #332288;
     overflow: hidden;
     margin: 0;
     padding: 0;
@@ -39,7 +39,7 @@ h1{
 }
 
 h3{
-    color: #007CB9;
+    color: #785EF0;
 }
 
 
@@ -69,14 +69,14 @@ h3{
 }
 #signUp{
     background-color: #D5EEFF;
-    color: #007CB9;
+    color: #785EF0;
     font-weight: bold;
 }
 
 /*<------About page----->*/
 
 .about{
-    background-color: #007CB9;
+    background-color: #785EF0;
 }
 
 .card {
@@ -84,7 +84,7 @@ h3{
     max-width: 300px;
     margin: auto;
     text-align: center;
-    background-color: #FF895D;
+    background-color: #FF6505;
   }
   
   .title {
@@ -133,7 +133,7 @@ input[type=text], select, textarea {
   }
   
   input[type=submit] {
-    background-color: #04AA6D;
+    background-color: #44AA99;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -167,7 +167,7 @@ input[type=text], select, textarea {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #007CB9;
+    background-color: #785EF0;
 }
 .footer .container div {
     margin: 20px 0;
